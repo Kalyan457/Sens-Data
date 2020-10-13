@@ -1,0 +1,23 @@
+.container2{
+    float: left;
+    flex-direction: column;
+    width: 60%;
+}
+
+.container3{
+    float: right;
+    flex-direction: column;
+    width: 40%;
+}
+
+.temperatureGraphDiv{
+    width: 100%;
+}
+
+.moistureGraphDiv{
+    width: 100%;
+}
+
+.clear{
+    clear: both;
+}
